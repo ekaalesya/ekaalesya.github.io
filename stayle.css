@@ -1,0 +1,13 @@
+ 
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(33, 144, 114);
+    text-align: center;
+}
+
+#projects {
+    background-color: rgb(33, 144, 114);   
+}
+#contact{
+    background-color: aqua;
+}
